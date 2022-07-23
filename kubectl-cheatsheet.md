@@ -1,3 +1,9 @@
+# Service
+
+```
+k api-resources
+```
+
 ## Service hostname
 
 ```
